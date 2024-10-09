@@ -4,7 +4,7 @@ Proxy for YouTube/Discord
 This method fix YouTube and Discord if it's blocked (in Russia)
 
 Donations:
-https://donate.stream/donate_6706ba6d996c4
+https://donate.stream/donate_6706ba6d996c4,
 (I can't add smth else)
 TYSM for any donate
 
