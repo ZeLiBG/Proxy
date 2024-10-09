@@ -18,7 +18,7 @@ https://spys.one/proxys/US/
 4. Copy Address(From your site) then paste into Address (In proxify) => Copy Port(From your site) and paste into port(In proxify) and choose Protocol (Basically, the website says what protocol is used)
 ![image](https://github.com/user-attachments/assets/16050c09-0293-43dc-bfde-4095972ff188)
 5. choose YES
-![image](https://github.com/user-attachments/assets/d56ef309-06c0-4d21-a5ca-72cd8437381c)
+ ![image](https://github.com/user-attachments/assets/d56ef309-06c0-4d21-a5ca-72cd8437381c)
 6. Enjoy!
 
 
